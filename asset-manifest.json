@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TiemposLasPalmas/static/css/main.b7a3464c.chunk.css",
-    "main.js": "/TiemposLasPalmas/static/js/main.090f611d.chunk.js",
-    "main.js.map": "/TiemposLasPalmas/static/js/main.090f611d.chunk.js.map",
+    "main.js": "/TiemposLasPalmas/static/js/main.9d36543f.chunk.js",
+    "main.js.map": "/TiemposLasPalmas/static/js/main.9d36543f.chunk.js.map",
     "runtime-main.js": "/TiemposLasPalmas/static/js/runtime-main.9b75d182.js",
     "runtime-main.js.map": "/TiemposLasPalmas/static/js/runtime-main.9b75d182.js.map",
     "static/css/2.ef9168ec.chunk.css": "/TiemposLasPalmas/static/css/2.ef9168ec.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.18d2129f.chunk.js",
     "static/css/main.b7a3464c.chunk.css",
-    "static/js/main.090f611d.chunk.js"
+    "static/js/main.9d36543f.chunk.js"
   ]
 }
