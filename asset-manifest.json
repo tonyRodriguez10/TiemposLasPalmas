@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TiemposLasPalmas/static/css/main.fdb77e76.chunk.css",
-    "main.js": "/TiemposLasPalmas/static/js/main.d3c6d60f.chunk.js",
-    "main.js.map": "/TiemposLasPalmas/static/js/main.d3c6d60f.chunk.js.map",
+    "main.css": "/TiemposLasPalmas/static/css/main.b7a3464c.chunk.css",
+    "main.js": "/TiemposLasPalmas/static/js/main.090f611d.chunk.js",
+    "main.js.map": "/TiemposLasPalmas/static/js/main.090f611d.chunk.js.map",
     "runtime-main.js": "/TiemposLasPalmas/static/js/runtime-main.9b75d182.js",
     "runtime-main.js.map": "/TiemposLasPalmas/static/js/runtime-main.9b75d182.js.map",
     "static/css/2.ef9168ec.chunk.css": "/TiemposLasPalmas/static/css/2.ef9168ec.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.18d2129f.chunk.js.map": "/TiemposLasPalmas/static/js/2.18d2129f.chunk.js.map",
     "index.html": "/TiemposLasPalmas/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/TiemposLasPalmas/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.fdb77e76.chunk.css.map": "/TiemposLasPalmas/static/css/main.fdb77e76.chunk.css.map",
+    "static/css/main.b7a3464c.chunk.css.map": "/TiemposLasPalmas/static/css/main.b7a3464c.chunk.css.map",
     "static/js/2.18d2129f.chunk.js.LICENSE.txt": "/TiemposLasPalmas/static/js/2.18d2129f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b75d182.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.18d2129f.chunk.js",
-    "static/css/main.fdb77e76.chunk.css",
-    "static/js/main.d3c6d60f.chunk.js"
+    "static/css/main.b7a3464c.chunk.css",
+    "static/js/main.090f611d.chunk.js"
   ]
 }
